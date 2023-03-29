@@ -1,7 +1,7 @@
 # Excel Hiring and Termination of staff Dynamic Dashboard
 
 In this project I analyzed and cleaned data in Excel from a database using keyboard shortcuts and pivot tables
-to model a dinamic dashboard with multiple cards, graphics and slicers. Showed different and unique indicators.
+to model a dynamic dashboard with multiple cards, graphics and slicers. Showed different and unique indicators.
 
 ## 1.- Data Understanding and Cleaning
 
