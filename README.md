@@ -12,7 +12,7 @@ cleaned and transformed useless or wrong data to prepare for the analysis.
 
 ## 2.- Data Analysis
 
-In this step I analyzed the Data with pivot tables and collect all the information I would need for the Dashboard.
+In this step I analyzed the Data with pivot tables and collected all the information I would need for the Dashboard.
 
 ![image](https://user-images.githubusercontent.com/123695844/228675864-90c79533-370f-4a4f-b16a-39bf49f247b1.png)
 
